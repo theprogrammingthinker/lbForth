@@ -23,6 +23,7 @@
 | PIC		| Research
 | Thumb		| Research
 | Xtensa	| Research
+| STM8		| Research
 
 | FUTURE?	| |
 | ------------- | ---
